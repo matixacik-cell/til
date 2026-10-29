@@ -8,3 +8,4 @@ Short notes I pick up while building client sites and tools.
 - [Name your stashes](git/stash-with-name.md)
 - [Get back a deleted branch](git/recover-deleted-branch.md)
 - [Credit a pair partner in a commit](git/co-authors.md)
+- [Only NEXT_PUBLIC_ env vars reach the browser](nextjs/env-public-prefix.md)
