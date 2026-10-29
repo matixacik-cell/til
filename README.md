@@ -16,3 +16,4 @@ Short notes I pick up while building client sites and tools.
 - [Test dark mode quickly](tailwind/dark-mode-class.md)
 - [Fluid type with clamp](css/clamp-font.md)
 - [Use dvh for full-height mobile sections](css/dvh-mobile.md)
+- [Respect reduced motion](css/reduced-motion.md)
