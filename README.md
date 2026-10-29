@@ -14,3 +14,4 @@ Short notes I pick up while building client sites and tools.
 - [Style a child when the parent is hovered](tailwind/group-hover.md)
 - [Use one-off values without config](tailwind/arbitrary-values.md)
 - [Test dark mode quickly](tailwind/dark-mode-class.md)
+- [Fluid type with clamp](css/clamp-font.md)
