@@ -19,3 +19,4 @@ Short notes I pick up while building client sites and tools.
 - [Respect reduced motion](css/reduced-motion.md)
 - [One virtual environment per project](python/venv-per-project.md)
 - [Debug print with the variable name](python/f-string-debug.md)
+- [Use pathlib for file paths](python/pathlib.md)
