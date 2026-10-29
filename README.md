@@ -17,3 +17,4 @@ Short notes I pick up while building client sites and tools.
 - [Fluid type with clamp](css/clamp-font.md)
 - [Use dvh for full-height mobile sections](css/dvh-mobile.md)
 - [Respect reduced motion](css/reduced-motion.md)
+- [One virtual environment per project](python/venv-per-project.md)
