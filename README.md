@@ -12,3 +12,4 @@ Short notes I pick up while building client sites and tools.
 - [Preview a dev site on your phone](nextjs/phone-preview.md)
 - [Give next/image a sizes prop](nextjs/image-sizes.md)
 - [Style a child when the parent is hovered](tailwind/group-hover.md)
+- [Use one-off values without config](tailwind/arbitrary-values.md)
