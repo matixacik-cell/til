@@ -18,3 +18,4 @@ Short notes I pick up while building client sites and tools.
 - [Use dvh for full-height mobile sections](css/dvh-mobile.md)
 - [Respect reduced motion](css/reduced-motion.md)
 - [One virtual environment per project](python/venv-per-project.md)
+- [Debug print with the variable name](python/f-string-debug.md)
