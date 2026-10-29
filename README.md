@@ -11,3 +11,4 @@ Short notes I pick up while building client sites and tools.
 - [Only NEXT_PUBLIC_ env vars reach the browser](nextjs/env-public-prefix.md)
 - [Preview a dev site on your phone](nextjs/phone-preview.md)
 - [Give next/image a sizes prop](nextjs/image-sizes.md)
+- [Style a child when the parent is hovered](tailwind/group-hover.md)
