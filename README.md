@@ -5,3 +5,4 @@ Short notes I pick up while building client sites and tools.
 
 - [Undo the last commit but keep the changes](git/undo-last-commit.md)
 - [See exactly what changed before committing](git/see-what-changed.md)
+- [Name your stashes](git/stash-with-name.md)
