@@ -10,3 +10,4 @@ Short notes I pick up while building client sites and tools.
 - [Credit a pair partner in a commit](git/co-authors.md)
 - [Only NEXT_PUBLIC_ env vars reach the browser](nextjs/env-public-prefix.md)
 - [Preview a dev site on your phone](nextjs/phone-preview.md)
+- [Give next/image a sizes prop](nextjs/image-sizes.md)
