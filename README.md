@@ -23,3 +23,4 @@ Short notes I pick up while building client sites and tools.
 - [Free a port that is stuck](shell/kill-port.md)
 - [Search your shell history](shell/history-search.md)
 - [Keep .env out of git from day one](security/env-gitignore.md)
+- [Turn on row level security first](supabase/rls-default.md)
